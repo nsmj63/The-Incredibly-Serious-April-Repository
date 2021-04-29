@@ -1,6 +1,8 @@
 # The-Incredibly-Serious-April-Repository
 This is a serious repository for serious people.
 
+This is Matthew's feature 1.
+
 Richard Redman:
 1. 1st feature
 2. 2nd feature goes here
