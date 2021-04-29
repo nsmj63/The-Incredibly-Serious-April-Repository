@@ -2,6 +2,7 @@
 This is a serious repository for serious people.
 
 This is Matthew's feature 1.
+This is Matthew's feature 2.
 
 Richard Redman:
 1. 1st feature
