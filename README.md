@@ -3,6 +3,15 @@ This is a serious repository for serious people.
 
 This is Matthew's feature 2.
 
+Richard Redman:
+1. 1st feature
+
+Asshwin's Features:
+This is my first feature
+This is my second feature
+This is my third feature
+
 Timur's Features:
 This is the first feature.
 This is the second feature.
+This is the third feature.
