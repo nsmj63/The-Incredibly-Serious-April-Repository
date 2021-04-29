@@ -13,6 +13,7 @@ Richard Redman:
 
 This is Matthew's feature 1.
 This is Matthew's feature 2.
+This is Matthew's feature 3.
 
 Asshwin's Features:
 This is my first feature
