@@ -1,6 +1,9 @@
 # The-Incredibly-Serious-April-Repository
 This is a serious repository for serious people.
 
+Timur's Features:
+This is the first feature.
+
 Richard Redman:
 1. The first feature here
 2. This is where the second feature will go
