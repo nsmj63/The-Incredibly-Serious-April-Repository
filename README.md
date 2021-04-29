@@ -1,10 +1,13 @@
 # The-Incredibly-Serious-April-Repository
 This is a serious repository for serious people.
 
+This is Matthew's feature 1.
 This is Matthew's feature 2.
 
 Richard Redman:
 1. 1st feature
+2. 2nd feature goes here
+3. 3rd and final feature here
 
 Asshwin's Features:
 This is my first feature
