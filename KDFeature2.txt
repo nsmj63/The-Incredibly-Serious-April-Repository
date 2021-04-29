@@ -1,5 +1,0 @@
-Food:
-
-Chicken Wings
-Pizza
-Garlic Bread
