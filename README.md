@@ -3,6 +3,7 @@ This is a serious repository for serious people.
 
 Richard Redman:
 1. 1st feature
+2. 2nd feature goes here
 
 Asshwin's Features:
 This is my first feature
